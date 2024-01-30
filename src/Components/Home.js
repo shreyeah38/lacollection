@@ -1,5 +1,5 @@
 import React from 'react'
-import front from '/home/shreyarai0308/react5/src/Assets/x.jpg'
+import front from '/home/shreyarai0308/react5/src/x.jpg'
 import Products from './Products';
 
 
