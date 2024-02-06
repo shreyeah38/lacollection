@@ -1,5 +1,5 @@
 import React from 'react'
-import front from '././x.jpg'
+import front from '../Assets/x.jpg'
 import Products from './Products';
 
 
